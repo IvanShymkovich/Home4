@@ -1,0 +1,35 @@
+.container1 {
+    position: absolute;
+    top: 113px;
+    right: 817px;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    border: 5px solid rgb(236, 202, 9); 
+    background-color: rgb(236, 202, 9);
+}
+
+.container2 {
+    position: absolute;
+    top: 172px;
+    right: 755px;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    border: 5px solid rgb(59, 34, 139); 
+    background-color: rgb(59, 34, 139);
+}
+
+.container3 {
+    position: absolute;
+    top: 222px;
+    right: 700px;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    border: 5px solid rgb(66, 236, 9);
+    background-color: rgb(66, 236, 9); 
+}

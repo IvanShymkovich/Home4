@@ -1,0 +1,32 @@
+.rectangle {
+    display: inline-block;
+
+    padding: 200px 300px;
+    margin: 60px;
+
+    background-color: rgb(243, 203, 3);
+
+    max-width: 250px;
+    max-height: 150px;
+}
+.square1 {
+    position: relative;
+
+    padding: 50px;
+
+    background-color: white;
+
+    right: 220px;
+    bottom: 120px;
+}
+.square2 {
+    position: relative;
+
+    padding: 50px;
+
+    background-color: white;
+
+    left: 220px;
+    bottom: 0px;
+    top: 70px;
+}
